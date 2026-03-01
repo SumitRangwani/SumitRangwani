@@ -20,7 +20,8 @@ I enjoy building practical technology solutions and exploring how software and h
 ### Programming
 - C
 - JavaScript
-- Python (basic)
+- Python
+- embedded C
 
 ### Web Development
 - HTML & CSS
